@@ -1,0 +1,42 @@
+body{
+    color:rgb(0, 247, 255);
+    background:rgb(255, 123, 0);
+  }
+  span{
+    font-size:30px;
+  
+  }
+  .heading{
+   background: radial-gradient(circle, rgba(3, 255, 255, 0.8) 26%, rgba(0, 255, 21, 0.8) 88%);
+  font-style: bold;
+font-size: large;
+font-family: sans-serif;
+text-align: center;
+
+}
+  #camera, #result{
+  width:350px;
+  height:300px;
+  border:2px dashed black;
+  
+  }
+  #result1,#result2{
+  color:black;
+  }
+  .emotion_name{
+    font-size:40px;
+  }
+  .emoji{
+    font-size:40px;
+    
+  }
+  p{
+    text-align: center;
+    background-color: rgb(255, 184, 71);
+    
+  }
+  .emotion_name{
+    margin-left: 30px;
+    background-color: tomato;
+    text-align: center;
+  }
